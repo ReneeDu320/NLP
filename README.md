@@ -1,2 +1,2 @@
 # NLP
-collection of nlp project, study materials, etc
+collection of nlp projects, study materials, etc
