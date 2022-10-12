@@ -2,9 +2,11 @@
 collection of nlp projects, study materials, etc
 
 - RNN poetry Generation
+
 create poetry like Shakespeare by leveraging RNNs(LSTMs). I used the Shakerpeare poetry as the training data and then use the trained network to predict the next words
 
 - Transformers
+
 Use transformers for 
   1. classifying whole sentence
   2. classifying each word in a sentence (NER)
@@ -14,6 +16,7 @@ Use transformers for
   6. translation
 
 Bias in Bert Models
+
 Train IMDB dataset with DistilBERT, Weights& Biases
 
 - Spacy_NER
